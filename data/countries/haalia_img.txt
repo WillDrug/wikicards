@@ -1,5 +1,0 @@
-id=haalia_img
-title=Haalia
-preview_image=haalia_img
----
-haalia_img.png
