@@ -1,0 +1,29 @@
+id=Iasten
+title=Iasten
+Government=Kingdom
+Species=Human(Vestlig)
+Magic=Low
+Dominion=High
+Primary Economy=Mining, Building, Defense, Tourism
+Slavery=Illegal
+Magic Tech=Low
+Weaponry=Melee
+Crafting Skill=Runes
+Language=Iasten?
+tags=country
+---
+# Description
+Iasten, or, to give its original name, The Mighty Kingdom Of The Great **Iasten Solftann**, begun as one of the waring tribes of the eastern continent. The second largest was lead by **Samrio Sjelkraft**. 
+
+After decades of battles, most other tribes have succumbed to the rule of **Iasten** and slowly started to cooperate, finding unity in their philosophy -  it's the strongest who should lead. The story of **Iasten** and **Samrio** is detailed in their respective pages.
+
+Now **Iasten** is a kingdom, lead by The High King. Strong traditions are observed throughout the country, although the northerners view southerners with suspicion.
+
+A random reference to delete: [Haalia](Haalia)
+
+# Culture
+Although the cultural roots of the Vestlig are strong everywhere, southern regions, relying more on trade than metallurgy, have higher crime rate and a more of a mercantile attitude, while northern parts of the country still live with the warrior honor code. 
+
+Each village and town functions as a tribe, mirroring the whole kingdom's rule structure. Hunters and warriors are honored members of the society (more so in the north), as well as builders, blacksmiths, and jewelers. Women theoretically can become warriors as well and often do, but still most of them prefer to stick to household and community chores. But even so, the order of each clan is largely supported by women. It's to the wife of the Chief that a warrior which killed one of the clan comes to. Even without breaking the law (there are a lot of lawful reasons to kill someone in Iasten) he has taken a life, taking working hands from the clan and possibly depriving them of food or security. This warrior kneels and puts his head on the knees of the head woman and she decides if he lives. If so, he joins the clan, making up for what he took by killing one of them.
+
+One of the most honored and valued professions is **skogjeger** - a Dominion-using Hunter. Bloodlines and dynasties of skogjeger formed and persisted ignoring clan wars, borders and territories.

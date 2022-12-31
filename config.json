@@ -1,0 +1,8 @@
+{
+  "LocalStorage": {
+    "folder": "D:\\Creative\\Code\\wikicards\\data"
+  },
+  "Card": {
+    "card_template": "D:\\Creative\\Code\\wikicards\\static\\card.html"
+  }
+}

@@ -1,0 +1,28 @@
+id=Haalia
+title=Haalia
+Government=Empire
+Species=Human(Central)
+Magic=High
+Dominion=Medium
+Primary Economy=Trade, Financial Services, Magical Services, Agriculture, Tourism
+Slavery=Normalized
+Magic Tech=Source
+Weaponry=Ranged, Powered
+Crafting Skill=Alchemy
+Language=Common
+tags=country
+preview_image=haalia_img
+---
+# Description
+Haalia is a vast empire, officially ruled by the **Emperor**.
+All the day-to-day running of the country is done by a **Small Council**, which is formed through an election from the various constituencies, some of which were previously kingdoms in their own right. Now it's all a part of one big and _happy_ empire.
+
+All Prime Council decisions are challenged by the **Commons Council** - a non-governing entity, representing the people of the empire. All the big decisions go through the **High Council** for analysis and approval before arriving on the **Emperor**'s desk.
+
+Towns are controlled by local mayors, sometimes leading what is known as a town planning council if the city is large enough. Usually, the mayor is hired by the small council member representing the city's constituency.  
+
+Haalia spans several climatic zones, mostly lying in temperate climates. Northern parts are less populated where temperate climates and forests give way to vast tundras.
+
+While middle population does regular farming and sits on one of the main world trade routes, the southern population enjoys a warmer climate and sea proximity, growing fruit and making wines, trying to compete with the neighboring **Vanam Sillae**. 
+
+Haalia is the center of technological and magical advancement - magical tech (**Arcana Mirantes**) properly created after **The War Of Mages** is mainly situated there, as well as the **Arcane Congress**.
