@@ -1,4 +1,9 @@
 
+# Backup 
+The original version is saved within `v1.0` branch.
+
+The new version will use `toycommons` as a base for storage usage and serve cards based on google doc parsing.
+React will be adapted to bootstrap just to render the cards properly.
 
 
 # Cards

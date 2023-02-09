@@ -12,6 +12,7 @@ class Singleton(type):
 
 class Config(metaclass=Singleton):
     filepath = 'config.json'
+
     def __init__(self):
         with open(self.filepath, 'r') as f:
             strcfg = f.read()

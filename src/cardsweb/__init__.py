@@ -5,6 +5,7 @@ from storage.filesystem import LocalStorage
 from flask_cors import CORS, cross_origin
 from os import path
 
+
 class Response:
     def __init__(self, obj, message="", success=True):
         self.obj = obj
@@ -44,7 +45,7 @@ def serve_flask(name, cardholder: CardController):
     def serve_card(card: str):
         try:
             card = cardholder.get_card_by_id(card, parse_body='ReactCustom')
-            #if card.is_image() and not 'preview' in request.args:  # reroute to /image ?
+            # if card.is_image() and not 'preview' in request.args:  # reroute to /image ?
             #    return Response(success=False, message=f"Card {card.id} is an image!", obj=None)()
         except CardNotFound:
             return Response(success=False, message=f"Card {card} not found", obj=None)()
@@ -62,7 +63,8 @@ def serve_flask(name, cardholder: CardController):
     def search():
         title = request.args.get('title')
         tags = [q for q in request.args.get('tags').split(',') if q != '']
-        cards = cardholder.search_cards(title=title if title != '' else None, tags=tags if tags.__len__() > 0 else None, parse_body='ReactCustom')
+        cards = cardholder.search_cards(title=title if title != '' else None, tags=tags if tags.__len__() > 0 else None,
+                                        parse_body='ReactCustom')
         return Response(success=True, message="", obj=[q.dict() for q in cards])()
 
     @app.route('/api/tag')

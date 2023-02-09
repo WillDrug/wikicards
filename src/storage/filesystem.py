@@ -3,6 +3,7 @@ from os import listdir, path, remove, walk
 from utility.card import Card
 from itertools import chain
 
+
 class LocalStorage(Storage):
     def get_by_tags(self, *args):
         ret = []
@@ -118,7 +119,6 @@ class LocalStorage(Storage):
                 # try finding a reference
                 remove(file)
 
-
     def __read(self):
         """ read sync function """
         for file in self.__files():
@@ -153,5 +153,3 @@ class LocalStorage(Storage):
         if img.filedata is None:
             fullpath = path.join(self.config.get('folder'), img.filepath)
             img.load(open(fullpath, 'rb+').read())
-
-

@@ -1,6 +1,7 @@
 from abc import ABCMeta, abstractmethod
 from utility import Config
 
+
 class Image:
     def __init__(self, filepath, image_type=None):
         if image_type is None:
